@@ -1,0 +1,45 @@
+*{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+}
+header {
+    background-color: aqua;
+    border: 50px;
+    text-align: center;
+}
+div {
+    border: 20px;
+    background-color: violet;
+    text-align: right;
+}
+section {
+    text-align: center;
+}
+h1,h2, h3 {
+    text-align: center;
+}
+#contactMe{
+    text-align: center;
+    background-color: aquamarine;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+.border{
+    background-color: aquamarine;
+    padding: 10px;
+    border: 20px;
+    
+
+}
+form{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+footer{
+    background-color: paleturquoise;
+}
